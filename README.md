@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tech-Panda-One
 - 👀 I’m interested in 3D-Printing and VR 
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on Twitter @Tech_Panda ans on Instagram @Tech_Panda_One
 
 <!---
 Tech-Panda-One/Tech-Panda-One is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
